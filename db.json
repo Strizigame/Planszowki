@@ -1,0 +1,25 @@
+{
+  "Planszowki":[
+  {
+    "tytul": "Bark Avenue",
+    "minLG": "1",
+    "maxLG": "5",
+    "czas": "60",
+    "trudnosc": 3
+  },
+    {
+    "tytul": "Sekret Wilczej Gromady. Moja Opowieść",
+    "minLG": "2",
+    "maxLG": "4",
+    "czas": "30",
+    "trudnosc": 1
+  },
+    {
+    "tytul": "Skytopia",
+    "minLG": "2",
+    "maxLG": "4",
+    "czas": "50",
+    "trudnosc": 5
+  }
+]
+}
